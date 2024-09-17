@@ -20,7 +20,7 @@ This project automates various tasks on Facebook such as commenting, liking post
 
 1. Clone the repository:
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/ubaii/vakubot
     ```
 
 2. Install the required dependencies:
