@@ -2,6 +2,10 @@
 
 This project automates various tasks on Facebook such as commenting, liking posts, and following accounts using the `DrissionPage` library with Chromium browser.
 
+## Disclaimer!
+This script is intended for educational purposes only. It demonstrates the capabilities of web automation using Python and should not be used for any activities that violate the terms of service of any platform, including Facebook.
+By using this tool, you assume full responsibility for your actions. The author is not liable for any misuse or damage caused by the use of this script. Always ensure you have proper authorization and comply with the rules and guidelines of the services you interact with.
+
 ## Features
 
 - **autoComment**: Automatically posts a comment on a specified Facebook post.
@@ -61,10 +65,6 @@ This project automates various tasks on Facebook such as commenting, liking post
     ```bash
     python3 vakubot.py --stop-driver
     ```
-
-## Disclaimer!
-This script is intended for educational purposes only. It demonstrates the capabilities of web automation using Python and should not be used for any activities that violate the terms of service of any platform, including Facebook.
-By using this tool, you assume full responsibility for your actions. The author is not liable for any misuse or damage caused by the use of this script. Always ensure you have proper authorization and comply with the rules and guidelines of the services you interact with.
 
 ## License
 
