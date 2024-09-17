@@ -182,6 +182,9 @@ if __name__ == "__main__":
     parser.add_argument('-c', '--configuration', type=str, help="Configuration file")
     args = parser.parse_args()
 
+    if os.path.isdir('data') is False:
+        os.mkdir('data')
+
     if len(sys.argv) == 1:
         main()
 
