@@ -42,24 +42,24 @@ This project automates various tasks on Facebook such as commenting, liking post
 
 ## Usage
 
-1. **Auto Comment:**
-    ```python
-    autoComment('https://facebook.com/target_post_url', 'Your comment text')
+1. **Go to Menu**
+    ```bash
+    python3 vakubot.py
     ```
 
-2. **Auto Like:**
-    ```python
-    autoLike('https://facebook.com/target_post_url')
+2. **With Configuration**
+    ```bash
+    python3 vakubot.py --configuration your-configuration-file.json
     ```
 
-3. **Auto Follow:**
-    ```python
-    autoFollow('https://facebook.com/target_account_url')
+3. **Starting Driver**
+    ```bash
+    python3 vakubot.py --start-driver
     ```
 
-4. **Login:**
-    ```python
-    login()
+4. **Stopping driver**
+    ```bash
+    python3 vakubot.py --stop-driver
     ```
 
 ## License
