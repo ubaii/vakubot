@@ -44,6 +44,28 @@ By using this tool, you assume full responsibility for your actions. The author 
     ]
     ```
 
+4. Example `configuration.json`:
+   ```json
+{
+    "mode": "auto-comment",
+    "isSingleComment": false,
+    "selectedComment": 1,
+    "isSingleTarget": false,
+    "selectedTarget": 1,
+    "target": [
+        "https://www.facebook.com/share/p/EfdCbYjMuyWHYtdM/",
+        "https://www.facebook.com/share/p/aBNxpsY4e9AJYgGN/",
+        "https://www.facebook.com/share/p/DGZSsJXFyhZW25q9/",
+        "https://www.facebook.com/share/p/hP3ubCVwkrfeLRmy/"
+    ],
+    "comment": [
+        "Maap kena buat tester bot",
+        "Ini cuma test bot aja ea",
+        "Test bot doang bang..."
+    ]
+}
+   ```
+
 ## Usage
 
 1. **Go to Menu**
