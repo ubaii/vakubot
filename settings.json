@@ -1,0 +1,19 @@
+{
+    "chrome": [
+        "--headless-new",
+        "--disable-gpu",
+        "--window-size=1920,1080",
+        "--allow-running-insecure-content",
+        "--disable-extensions",
+        "--disable-dev-shm-usage",
+        "--disable-features=NetworkService",
+        "--disable-features=NetworkServiceInProcess",
+        "--disable-background-networking",
+        "--disable-background-timer-throttling",
+        "--disable-backgrounding-occluded-windows",
+        "--disable-breakpad",
+        "--disable-client-side-phishing-detection",
+        "--disable-component-update",
+        "--disable-default-apps"
+    ]
+}
