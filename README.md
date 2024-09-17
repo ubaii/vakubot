@@ -36,10 +36,10 @@ By using this tool, you assume full responsibility for your actions. The author 
     ```json
     [
         {
-            "id": "user1",
-            "cookie": "your_cookie_string",
-            "password": "your_password",
-            "port": 9222
+            "id": "user1", // FACEBOOK ID
+            "cookie": "your_cookie_string", // COOKIE STRING
+            "password": "your_password", // PASSWORD OF FACEBOOK
+            "port": 9222 // PORT FOR DP INTEGERATION
         }
     ]
     ```
